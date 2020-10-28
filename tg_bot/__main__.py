@@ -27,26 +27,16 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
 
+Heya! {}, I am {} !
 
-┈┈┈┈╱▔▔▔▔╲┈┈┈┈
-┈┈┈▕▕╲┊┊╱▏▏┈┈┈
-┈┈┈▕▕▂╱╲▂▏▏┈┈┈
-┈┈┈┈╲┊┊┊┊╱┈┈┈┈
-┈┈┈┈▕╲▂▂╱▏┈┈┈┈
-╱▔▔▔▔┊┊┊┊▔▔▔▔╲
-HOI    {}, MY NAME IS {} !
 
-I AM A GROUP MANAGER BOT MAINTAINED BY 
+I am a cute and efficient group management bot developed by [IMPULSIVE](tg://user?id={}) :)
 
-[THIS LEGEND](tg://user?id={}).
+🍁For help with bot commands and hit /help ⚡️
 
-HIT HELP FOR COMMANDS  /help
+🍁If you are lazy you can add me to your group for taking care of it ⚡️
 
-I AM COMPLETELY OPEN SOURCE
-
-MY SOURCE CODE IS AVAILABLE TO YOU
-
-[HERE](https://github.com/leobrownlee/phantom)
+🍁For issues and help related to Amelia Bot you ask it in our official support group ⚡️
 
 """
 
